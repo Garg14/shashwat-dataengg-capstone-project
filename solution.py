@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 def load_players(file_path):
     return pd.read_csv('C:\\Users\\Ascendion\\Downloads\\cricket_players_analysis\\cricket_players_analysis\\data\\players.csv')
